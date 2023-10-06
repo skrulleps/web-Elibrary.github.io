@@ -14,5 +14,6 @@ Website ini di bangun dengan menggunakan :
 - HTML
 - CSS
 - Bootstrap
+- Javascript
 
 Terimakasih
