@@ -1,6 +1,18 @@
-Thanks for downloading this template!
+# Website E-Library
+merupakan sebuah projek Ujian Akhir Semester (UAS) yang di tugaskan untuk memodifikasi website dengan menggunakan bootsrap di dalamnya
+(Hanya Front-end saja)
 
-Template Name: eBusiness
-Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## Fitur
+- Tampilan dashboard
+- Carousels
+- Services
+- Blog
+
+## Tech
+Website ini di bangun dengan menggunakan :
+- Virtual Studio Code 
+- HTML
+- CSS
+- Bootstrap
+
+Terimakasih
